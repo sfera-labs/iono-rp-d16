@@ -4,9 +4,13 @@ Choose you favorite way of programming your [Iono RP D16](https://www.sferalabs.
 
 ## Arduino IDE
 
+<!---
 Repository: https://github.com/sfera-labs/iono-rp-d16-arduino
 
 Use the simplicity of the Arduino IDE to write your powerful firmware.    
+-->
+
+Coming soon.
 
 ## Raspberry Pi Pico C/C++ SDK
 
